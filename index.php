@@ -1,5 +1,5 @@
 <?php
 
-print "welcome to oKD training 2nd";
+print "welcome to oKD training 3rd";
 
 ?>
