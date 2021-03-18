@@ -1,5 +1,5 @@
 <?php
 
-print "new-version 2";
+print "new-version 3";
 
 ?>
