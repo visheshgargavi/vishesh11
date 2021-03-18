@@ -1,5 +1,5 @@
 <?php
 
-print "start-build";
+print "new-version";
 
 ?>
